@@ -10,7 +10,7 @@
  * 9. Поменять значения двух целочисленных переменных используя третью.
  * 10. Поменять значения двух переменных без использования третей.
  */
-public class HoumWork02 {
+public class HomeWork02 {
     public static void main(String[] args) {
         byte b;
         b = 5;
